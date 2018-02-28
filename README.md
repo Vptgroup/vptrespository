@@ -1,2 +1,0 @@
-# vptrespository
-link to aws
